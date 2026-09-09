@@ -1,6 +1,6 @@
 # student-ml-api
 
-Student roll number: `23i-0565`
+Student Roll Number: 23i-0565
 
 FastAPI inference service used for an MLOps CI/CD exercise: feature branches →
 Pull Request → GitHub Actions CI → review → merge → semantic version tag →
