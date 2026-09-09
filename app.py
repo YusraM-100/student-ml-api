@@ -24,7 +24,8 @@ def health():
     return {
         "status": "healthy",
         "application": APPLICATION_NAME,
-        "version": get_version(),
+        "application_version": get_version(),
+        "model_version": "model-1",
     }
 
 
